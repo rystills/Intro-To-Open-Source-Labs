@@ -1,0 +1,2 @@
+Problem: Generating World meshes by hand for games is difficult and time consuming.
+Solution: Create meshes procedurally, by using an algorithm to generate vertices, triangles, and UVs. Once these algorithms are functioning, meshes can be created from a high level perspective, by describing blueprints for each object or terrain type. I am currently working on the algorithm stage, but have made considerable progress, and am able to generate several basic 3d shapes dynamically, with minimal input from the user.
