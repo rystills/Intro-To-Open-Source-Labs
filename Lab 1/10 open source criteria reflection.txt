@@ -1,0 +1,2 @@
+Aritcle: 10 criteria of Open Source Definition
+As we discussed with our guest speaker on Tuesday, it is important that Open Source have a clear, specific set of criteria, so that the definition is universally understood. These rules clearly complement each other. For example, Free Redistribution would have far less powerful implications if it did not also include a technology-neutral license. overall, these rules enable the open source community to effectively move forwards, building off of each others' works while maintaining each project's specified license.
