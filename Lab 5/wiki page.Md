@@ -1,4 +1,4 @@
-[u]Procedural Mesh Generation[/u]
+*Procedural Mesh Generation*
 
 Problem: Creating games and simulations requires a lot of art. Building 3d worlds requires considerable money and time, as 3d artists must be hired to create fully textured and rigged meshes.
 If 3d meshes could be generated in a faster, more versatile, and completely reusable way, this would substantially reduce the cost and time of developing 3d applications.
